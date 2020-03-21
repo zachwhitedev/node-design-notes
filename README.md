@@ -1,6 +1,9 @@
-Setting up TypeScript with a Node/Express API, then adding my notes from "Node.js Design Patterns" (2nd edition).
+Setting up TypeScript with a Node/Express API, then adding some of my notes from "Node.js Design Patterns" (2nd edition).
 
-resource: https://www.youtube.com/watch?v=zRo2tvQpus8
+resources: 
+
+https://www.youtube.com/watch?v=zRo2tvQpus8
+https://www.youtube.com/watch?v=rAy_3SIqT-E
 
 Dependencies for Node/Express + TypeScript:
 <code>sudo npm i -g typescript</code>
