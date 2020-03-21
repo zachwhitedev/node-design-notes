@@ -3,6 +3,7 @@ Setting up TypeScript with a Node/Express API, then adding some of my notes from
 resources: 
 
 https://www.youtube.com/watch?v=zRo2tvQpus8
+
 https://www.youtube.com/watch?v=rAy_3SIqT-E
 
 Dependencies for Node/Express + TypeScript:
